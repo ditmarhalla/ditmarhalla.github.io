@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [Link to another page](./blog.html).
 
 
