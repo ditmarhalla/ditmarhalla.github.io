@@ -3,4 +3,4 @@ I am an Applied Mathematics student. Always want to learn more anout how the uni
 
 ## CV
 
-![CV_Ditmar_Halla](https://github.com/ditmarhalla/ditmarhalla.github.io/blob/gh-pages/CV%20-%20Halla_Ditmar_EN.pdf)
+![CV_Ditmar_Halla](https://github.com/ditmarhalla/ditmarhalla.github.io/blob/gh-pages/CV)
