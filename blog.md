@@ -3,4 +3,4 @@ layout: noheader
 ---
 
 
-![cv](https://github.com/ditmarhalla/ditmarhalla.github.io/blob/gh-pages/cv.png)
+![cv](https://raw.githubusercontent.com/ditmarhalla/ditmarhalla.github.io/gh-pages/cd.png)
