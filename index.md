@@ -48,11 +48,11 @@ print(" ","-"*29)
 
 ### [Numerical Mathematics (Matlab)](https://github.com/ditmarhalla/numerical_mathematics)
 
-![Matlab](https://github.com/ditmarhalla/numerical_mathematics/blob/main/fig2.jpg)
+![Matlab](https://raw.githubusercontent.com/ditmarhalla/numerical_mathematics/main/fig2.jpg)
 
 
 
 ### [Sunspot Detection (Python + cv2 )](https://github.com/ditmarhalla/astronomy/tree/main/sunspot_detection)
-![Sunspot_detection](https://github.com/ditmarhalla/astronomy/blob/main/sunspot_detection/Finish.png)
+![Sunspot_detection](https://raw.githubusercontent.com/ditmarhalla/astronomy/main/sunspot_detection/Finish.png)
 
     
