@@ -23,8 +23,8 @@ print ("-"*100)
 
 start = time.time()
 #root
-trained_data ='C:\\Users\\Ditmar\\Desktop\\University\\2 Semester\\Introduction to Programing\\Clasification-Project-\\trained.txt'
-untraiend_data = 'C:\\Users\\Ditmar\\Desktop\\University\\2 Semester\\Introduction to Programing\\Clasification-Project-\\untrained.txt'
+trained_data ='\trained.txt'
+untraiend_data = '\untrained.txt'
 
 #Load the data
 trained_file = np.loadtxt(trained_data,dtype=np.float16)
