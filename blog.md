@@ -1,5 +1,5 @@
 ---
-layout: clean
+layout: blog
 ---
 # <img src="https://render.githubusercontent.com/render/math?math=S = k*log(W)"> 
 This is a blog post that will continue. There will be no folders and new entries will just be the last post you see here.
