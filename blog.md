@@ -13,7 +13,7 @@ So that is why I decided to write instead. In the hopes to lit again that little
 
 
 
-# [Switching to Linux](./blogs/05-10-2021.md)
+## [Switching to Linux](./blogs/05-10-2021.md)
 05.10.2021
 
 
