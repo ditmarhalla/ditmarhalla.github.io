@@ -7,9 +7,7 @@ layout: default
 ---
 <div class="myWrapper" markdown="1">
 <div align="center">
-
-### Languages
-
+<b>Languages</b>
 </div>
 </div>
 
@@ -19,9 +17,7 @@ layout: default
 
 <div class="myWrapper" markdown="1">
 <div align="center">
-
-### Technologies
-
+<b>Technologies</b>
 </div>
 </div>
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50" height="50"/>
@@ -35,7 +31,7 @@ layout: default
 <div class="myWrapper" markdown="1">
 <div align="center">
 
-### Tools
+<b>Tools</b>
 
 </div>
 </div>
