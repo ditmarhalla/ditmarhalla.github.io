@@ -43,9 +43,7 @@ layout: default
 
 I am an Applied Mathematics student. My interests are vast. From computer vision and image processing, to more hardware related projects like using a raspbery pi. I mostly use Python, as that is the language I have the most proficiency in. But I am trying to learn C++, since I like to have knowledge in a language that is close to the hardware and also fast when I need it.
 
-Currently I am working as a research assistant with one of my professors at the university in High Performance Computing (HPC) for simulations. My work consists in running simulations for fluid dynamics using Linux and some Shell scripting in order to automate the tasks. Feel free to check my [GitHub](https://github.com/ditmarhalla) to see what project I am working on.
-
-One of my hobbys is also rugby. I used to practice the sport back in Tirana, Albania and to help the team I managed the Instagram account of the [Tirana Rugby Club](https://www.instagram.com/tirana.rugby.club/) untill recently. One of the things I am proud of is during the time I managed the Instagram we gained 1900 followers, from 200 followers to 2100. I used Gimp and Adobe to create posters and edit pictures which I enjoyed and also learned a lot from. As a way to help the team I also created two websites using Wordpress. [K.R. Tirana](https://krtirana.wordpress.com/) and [Albania R.L.](albaniarl.wordpress.com). It was a simple task using wordpress. All in all I am happy that I "wasted" my time as I learned a lot creating the websites, creating and managing content for Instagram page and learning tricks on the way.
+Currently I am working as a working student in test automation using Python, Robot Framework and Jankins and  as a research assistant with one of my professors at the university in High Performance Computing (HPC) for simulations. My work consists in running simulations for fluid dynamics using Linux and some Shell scripting in order to automate the tasks. Feel free to check my [GitHub](https://github.com/ditmarhalla) to see what project I am working on.
 
 
 ### [Clasification Project (Python + NumPy)](https://github.com/ditmarhalla/Clasification-Project-)
