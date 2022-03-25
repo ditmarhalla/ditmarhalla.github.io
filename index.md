@@ -46,11 +46,23 @@ I am an Applied Mathematics student. My interests are vast. From computer vision
 Currently I am working as a working student in test automation using Python, Robot Framework and Jankins and  as a research assistant with one of my professors at the university in High Performance Computing (HPC) for simulations. My work consists in running simulations for fluid dynamics using Linux and some Shell scripting in order to automate the tasks. Feel free to check my [GitHub](https://github.com/ditmarhalla) to see what project I am working on.
 
 
-### [Machine Learning](https://github.com/ditmarhalla/machine_learning)
-![GMM](https://raw.githubusercontent.com/ditmarhalla/machine_learning/image/figure_1.png)
-![KNN](https://raw.githubusercontent.com/ditmarhalla/machine_learning/image/figure_2.png)
 
-### [Clasification Project (Python + NumPy)](https://github.com/ditmarhalla/Clasification-Project-)
+### [Machine Learning](https://github.com/ditmarhalla/machine_learning)
+
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="https://raw.githubusercontent.com/ditmarhalla/machine_learning/main/image/figure_1.png" width="500"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="https://raw.githubusercontent.com/ditmarhalla/machine_learning/main/image/figure_2.png" width="500"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
+### [Clasification Project (Python OOP + NumPy)](https://github.com/ditmarhalla/Clasification-Project-)
 
 ```python
 from nearest_neighbor import Nearest_Neighbour
