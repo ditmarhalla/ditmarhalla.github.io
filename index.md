@@ -57,7 +57,7 @@ I am an Applied Mathematics student. My interests are vast. From computer vision
 
 Currently I am working as a working student in test automation using Python, Robot Framework and Jankins and  as a research assistant with one of my professors at the university in High Performance Computing (HPC) for simulations. My work consists in running simulations for fluid dynamics using Linux and some Shell scripting in order to automate the tasks. Feel free to check my [GitHub](https://github.com/ditmarhalla) to see what project I am working on.
 
-
+---
 
 ### [Machine Learning](https://github.com/ditmarhalla/machine_learning)
 
@@ -73,6 +73,8 @@ Currently I am working as a working student in test automation using Python, Rob
         </tr>
     </table>
 </div>
+
+---
 
 ### [Clasification Project (Python OOP + NumPy)](https://github.com/ditmarhalla/Clasification-Project-)
 
@@ -111,13 +113,11 @@ print(" ","-"*29)
 print("| The program is done runnign  |")
 print(" ","-"*29)
 ```
-
+---
 ### [Numerical Mathematics (Matlab)](https://github.com/ditmarhalla/numerical_mathematics)
-
 ![Matlab](https://raw.githubusercontent.com/ditmarhalla/numerical_mathematics/main/fig2.jpg)
 
-
-
+---
 ### [Sunspot Detection (Python + cv2 )](https://github.com/ditmarhalla/astronomy/tree/main/sunspot_detection)
 ![Sunspot_detection](https://raw.githubusercontent.com/ditmarhalla/astronomy/main/sunspot_detection/Finish.png)
 
