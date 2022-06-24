@@ -14,7 +14,7 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
+    <header class="banner_di" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.buttons %}
@@ -22,19 +22,16 @@
         <a href="https://ditmarhalla.github.io/cv.html" class="btn">CV</a>
       {% endif %}
     </header>
-    <div class="banner_di">
-  <div>
-    <h1>Welcome to the site</h1>
-    <h5>Sign up for free today</h5>
-    <button>Get started</button>
-  </div>  
-</div>
     
-    <style>
-.banner_di {
-    /* The image used */
+    
+ <style>
+    .banner_di 
+   {
+    width: 100%;
+    padding:60px 0;
+    text-align: center;
     background-image:
-    url(https://.../mountain.png);
+    url(https://raw.githubusercontent.com/ditmarhalla/ditmarhalla.github.io/gh-pages/baner.png);
   }
 </style>
 
