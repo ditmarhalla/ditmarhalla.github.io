@@ -18,13 +18,20 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.buttons %}
-        <a href="https://ditmarhalla.github.io/blog.html" class="btn">Blog</a>
-        <a href="https://ditmarhalla.github.io/cv.html" class="btn">CV</a>
+        <a href="https://ditmarhalla.github.io/blog.html" class="button">Blog</a>
+        <a href="https://ditmarhalla.github.io/cv.html" class="button">CV</a>
       {% endif %}
-    </header>
+      
+      
+    <style>
+     .button {
+      background-color:white;
+      border-color:black;
+      color:black;
+      }
+    </style>
     
-    
- <style>
+    <style>
     .banner_di 
    {
     width: 100%;
@@ -34,6 +41,12 @@
     url(https://raw.githubusercontent.com/ditmarhalla/ditmarhalla.github.io/gh-pages/baner.png);
   }
 </style>
+      
+      
+    </header>
+    
+    
+
 
     <main id="content" class="main-content" role="main">
       {{ content }}
