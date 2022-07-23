@@ -23,6 +23,8 @@ layout: default
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="RedHat" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" width="50" height="50"/>
 </p>
+</div>	
+
 
 	
 <div align="center">
@@ -35,6 +37,7 @@ layout: default
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="cpp" width="50" height="50"/>
 <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="sql" width="50" height="50"/>
 </p>	
+</div>	
 	
 
 <div align="center">
@@ -52,13 +55,11 @@ layout: default
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="50" height="50"/>
 <img src="https://img.icons8.com/ios/50/000000/markdown--v1.png" alt="latex" width="50" height="50"/>
 </p>          
-
+</div>	
 
 <div align="center">
 <b>Other Technologies</b>
 <p align="center">
-</div>	
-</div>	
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry-Pi" width="50" height="50"/>
@@ -69,6 +70,7 @@ layout: default
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  alt="sqlpostgre" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"  alt="opencv" width="50" height="50"/>
 </p>
+</div>	
 
 
 ---                                        
