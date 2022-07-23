@@ -57,6 +57,8 @@ layout: default
 <div align="center">
 <b>Other Technologies</b>
 <p align="center">
+</div>	
+</div>	
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry-Pi" width="50" height="50"/>
@@ -67,7 +69,8 @@ layout: default
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  alt="sqlpostgre" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"  alt="opencv" width="50" height="50"/>
 </p>
-</div>	
+
+
 ---                                        
 
 I am a Data Engineer with a applied mathematics background. I started my new career in High Performance Computing as a research assistant for one of my professors doing Computational Fluid Dynamics running simulation and analysing the results in Matlab.
