@@ -67,13 +67,18 @@ layout: default
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  alt="sqlpostgre" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"  alt="opencv" width="50" height="50"/>
 </p>
-	
+</div>	
 ---                                        
 
-I am an Applied Mathematics student. My interests are vast. From computer vision and image processing, to more hardware related projects like using a raspbery pi. I mostly use Python, as that is the language I have the most proficiency in. But I am trying to learn C++, since I like to have knowledge in a language that is close to the hardware and also fast when I need it.
-
-Currently I am working as a working student in test automation using Python, Robot Framework and Jankins and  as a research assistant with one of my professors at the university in High Performance Computing (HPC) for simulations. My work consists in running simulations for fluid dynamics using Linux and some Shell scripting in order to automate the tasks. Feel free to check my [GitHub](https://github.com/ditmarhalla) to see what project I am working on.
+I am a Data Engineer with a applied mathematics background. I started my new career in High Performance Computing as a research assistant for one of my professors doing Computational Fluid Dynamics running simulation and analysing the results in Matlab.
 	
+My second experience was in Automation and Software Testing. Having to write Python for and write low level OOP and also high level keywords for Robot Framework. Working with Jenkins and Docker on a very large project with repositorys with more then 1000 files.
+	
+At the moment I am a Data Engineer and learning hadoop, hive, spark, and a lot more.
+	
+When I am not working you can find me trying to learn C++ for my side project that involve microcontrollers (that I am very passionate about) and also reading physics news especially astronomy and astrophysics.
+	
+Feel free to check my [GitHub](https://github.com/ditmarhalla) to see what project I am working on.
 	
 ---
 
